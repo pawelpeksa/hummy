@@ -55,7 +55,7 @@ The Service Provider does not knowingly collect personally identifiable informat
 
 If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider at [pmpeksa@gmail.com](mailto:pmpeksa@gmail.com) so that they will be able to take the necessary actions.
 
-> You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
 
 ---
 
